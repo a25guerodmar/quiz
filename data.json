@@ -1,0 +1,184 @@
+{
+  "preguntes": [
+    {
+      "id": 1,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Bèlgica",
+        "França",
+        "Irlanda",
+        "Itàlia"
+      ],
+      "resposta_correcta": "França",
+      "imatge": "https://flagcdn.com/w640/fr.png"
+    },
+    {
+      "id": 2,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Mònaco",
+        "Polònia",
+        "Indonèsia",
+        "Àustria"
+      ],
+      "resposta_correcta": "Indonèsia",
+      "imatge": "https://flagcdn.com/w640/id.png"
+    },
+    {
+      "id": 3,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Portugal",
+        "Colòmbia",
+        "Espanya",
+        "Ecuador"
+      ],
+      "resposta_correcta": "Espanya",
+      "imatge": "https://flagcdn.com/w640/es.png"
+    },
+    {
+      "id": 4,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Croàcia",
+        "Rússia",
+        "Països Baixos",
+        "Luxemburg"
+      ],
+      "resposta_correcta": "Rússia",
+      "imatge": "https://flagcdn.com/w640/ru.png"
+    },
+    {
+      "id": 5,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Vietnam",
+        "Japó",
+        "Corea del Sud",
+        "Bangladesh"
+      ],
+      "resposta_correcta": "Japó",
+      "imatge": "https://flagcdn.com/w640/jp.png"
+    },
+    {
+      "id": 6,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Paraguai",
+        "Argentina",
+        "Brasil",
+        "Uruguai"
+      ],
+      "resposta_correcta": "Brasil",
+      "imatge": "https://flagcdn.com/w640/br.png"
+    },
+    {
+      "id": 7,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Anglaterra",
+        "Tonga",
+        "Suïssa",
+        "Dinamarca"
+      ],
+      "resposta_correcta": "Suïssa",
+      "imatge": "https://flagcdn.com/w640/ch.png"
+    },
+    {
+      "id": 8,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Austràlia",
+        "Canadà",
+        "Nova Zelanda",
+        "Estats Units"
+      ],
+      "resposta_correcta": "Canadà",
+      "imatge": "https://flagcdn.com/w640/ca.png"
+    },
+    {
+      "id": 9,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Islàndia",
+        "Israel",
+        "Grècia",
+        "Finlàndia"
+      ],
+      "resposta_correcta": "Islàndia",
+      "imatge": "https://flagcdn.com/w640/is.png"
+    },
+    {
+      "id": 10,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Irlanda",
+        "Mèxic",
+        "Hongria",
+        "Itàlia"
+      ],
+      "resposta_correcta": "Mèxic",
+      "imatge": "https://flagcdn.com/w640/mx.png"
+    },
+    {
+      "id": 11,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Marroc",
+        "Turquia",
+        "Tunísia",
+        "Pakistan"
+      ],
+      "resposta_correcta": "Turquia",
+      "imatge": "https://flagcdn.com/w640/tr.png"
+    },
+    {
+      "id": 12,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Dinamarca",
+        "Noruega",
+        "Islàndia",
+        "Suècia"
+      ],
+      "resposta_correcta": "Suècia",
+      "imatge": "https://flagcdn.com/w640/se.png"
+    },
+    {
+      "id": 13,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Ghana",
+        "Nigèria",
+        "Sud-àfrica",
+        "Kenya"
+      ],
+      "resposta_correcta": "Sud-àfrica",
+      "imatge": "https://flagcdn.com/w640/za.png"
+    },
+    {
+      "id": 14,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Bangladesh",
+        "Índia",
+        "Nepal",
+        "Bhutan"
+      ],
+      "resposta_correcta": "Bhutan",
+      "imatge": "https://flagcdn.com/w640/bt.png"
+    },
+    {
+      "id": 15,
+      "pregunta": "A quin país pertany aquesta bandera?",
+      "respostes": [
+        "Regne Unit",
+        "Fiji",
+        "Austràlia",
+        "Nova Zelanda"
+      ],
+      "resposta_correcta": "Nova Zelanda",
+      "imatge": "https://flagcdn.com/w640/nz.png"
+    }
+  ]
+}
